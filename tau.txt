@@ -1,0 +1,14 @@
+---------Welcome-----
+barrier height: 5 , base width: 3.500000000000001 , base length: 1.4000000000000004
+base thickness: 1.5750000000000004
+barrier height: 5 , base width: 5.200000000000003 , base length: 2.0800000000000014
+base thickness: 1.5750000000000004
+barrier height: 5 , base width: 6.200000000000003 , base length: 2.4800000000000013
+base thickness: 1.5750000000000004
+overturning moment: 11895.123418728896
+tension : 29280.0
+desin tensin res: 19520.0
+tension : 46400
+desin tensin res: 30933.333333333332
+The bolt for resisting tension is: M10
+---Finish---

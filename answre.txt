@@ -1,0 +1,6 @@
+---------Welcome-----
+barrier height: 5 , base width: 4.250000000000002 , base length: 1.7000000000000008
+base thickness: 1.9125000000000008
+barrier height: 5 , base width: 5.250000000000003 , base length: 2.100000000000001
+base thickness: 1.9125000000000008
+---Finish---

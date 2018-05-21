@@ -1,0 +1,228 @@
+Design Flood Elevation in ft
+5
+Assuming base_width = wall_height
+Wall thickness in ft
+1.5
+Establishing constants....
+Insert soil specific weight in Ib/ft3 
+120
+Insert material specific weight in Ib/ft3
+175
+Insert material shear strength in Ib/ft2 
+4.04
+Insert cohesion coefficient
+0
+Insert friction coeffiecient
+0.55
+Insert passive pressure coeffiecient
+3.7
+Insert base specific weight
+150
+Allowable bearing Capacity of soil
+2000 
+Design Against Failure by sliding...............................
+Assuming base_length = 0.80 of base_width
+Assuming base_thickness= 0.70 of base_width
+hydrostatic force: 3200.0
+Calculating opposing forces
+weight of base: 412.50000000000006
+Bouyant Force: 176.0
+Vertical force : 1800.526402640264
+passive soil pressure: 164.07600738525394
+Resisting force: 1154.3655503013465
+1154.3655503013465
+Changing base_width
+Assuming base_length = 0.80 of base_width
+Assuming base_thickness= 0.70 of base_width
+hydrostatic force: 3200.0
+Calculating opposing forces
+weight of base: 549.0375
+Bouyant Force: 234.25600000000003
+Vertical force : 1958.807902640264
+passive soil pressure: 218.38516582977297
+Resisting force: 1295.7295356327281
+1295.7295356327281
+Changing base_width
+Assuming base_length = 0.80 of base_width
+Assuming base_thickness= 0.70 of base_width
+hydrostatic force: 3200.0
+Calculating opposing forces
+weight of base: 712.8000000000003
+Bouyant Force: 304.12800000000016
+Vertical force : 2143.3650693069308
+passive soil pressure: 283.52334076171894
+Resisting force: 1462.3741544314335
+1462.3741544314335
+Changing base_width
+Assuming base_length = 0.80 of base_width
+Assuming base_thickness= 0.70 of base_width
+hydrostatic force: 3200.0
+Calculating opposing forces
+weight of base: 906.2625000000007
+Bouyant Force: 386.6720000000003
+Vertical force : 2355.616902640265
+passive soil pressure: 360.47498822540314
+Resisting force: 1656.0643127586907
+1656.0643127586907
+Changing base_width
+Assuming base_length = 0.80 of base_width
+Assuming base_thickness= 0.70 of base_width
+hydrostatic force: 3200.0
+Calculating opposing forces
+weight of base: 1131.9000000000008
+Bouyant Force: 482.94400000000036
+Vertical force : 2596.982402640265
+passive soil pressure: 450.2245642651371
+Resisting force: 1878.5649166757255
+1878.5649166757255
+Changing base_width
+Assuming base_length = 0.80 of base_width
+Assuming base_thickness= 0.70 of base_width
+hydrostatic force: 3200.0
+Calculating opposing forces
+weight of base: 1392.1875000000011
+Bouyant Force: 594.0000000000005
+Vertical force : 2868.880569306932
+passive soil pressure: 553.7565249252323
+Resisting force: 2131.6408722437664
+2131.6408722437664
+Changing base_width
+Assuming base_length = 0.80 of base_width
+Assuming base_thickness= 0.70 of base_width
+hydrostatic force: 3200.0
+Calculating opposing forces
+weight of base: 1689.6000000000024
+Bouyant Force: 720.896000000001
+Vertical force : 3172.730402640266
+passive soil pressure: 672.055326250001
+Resisting force: 2417.057085524041
+2417.057085524041
+Changing base_width
+Assuming base_length = 0.80 of base_width
+Assuming base_thickness= 0.70 of base_width
+hydrostatic force: 3200.0
+Calculating opposing forces
+weight of base: 2026.6125000000025
+Bouyant Force: 864.6880000000011
+Vertical force : 3509.9509026402666
+passive soil pressure: 806.1054242837535
+Resisting force: 2736.5784625777756
+2736.5784625777756
+Changing base_width
+Assuming base_length = 0.80 of base_width
+Assuming base_thickness= 0.70 of base_width
+hydrostatic force: 3200.0
+Calculating opposing forces
+weight of base: 2405.700000000003
+Bouyant Force: 1026.4320000000014
+Vertical force : 3881.9610693069326
+passive soil pressure: 956.8912750708021
+Resisting force: 3091.9699094661974
+3091.9699094661974
+Changing base_width
+Assuming base_length = 0.80 of base_width
+Assuming base_thickness= 0.70 of base_width
+hydrostatic force: 3200.0
+Calculating opposing forces
+weight of base: 2829.3375000000033
+Bouyant Force: 1207.1840000000013
+Vertical force : 4290.179902640268
+passive soil pressure: 1125.3973346554578
+Resisting force: 3484.9963322505346
+3484.9963322505346
+Changing base_width
+Assuming base_length = 0.80 of base_width
+Assuming base_thickness= 0.70 of base_width
+hydrostatic force: 3200.0
+Calculating opposing forces
+weight of base: 3300.000000000004
+Bouyant Force: 1408.0000000000016
+Vertical force : 4736.026402640267
+passive soil pressure: 1312.6080590820327
+Resisting force: 3917.4226369920143
+3917.4226369920143
+Changing base_width
+Assuming base_length = 0.80 of base_width
+Assuming base_thickness= 0.70 of base_width
+hydrostatic force: 3200.0
+Calculating opposing forces
+weight of base: 3820.162500000006
+Bouyant Force: 1629.9360000000027
+Vertical force : 5220.919569306936
+passive soil pressure: 1519.507904394839
+Resisting force: 4391.013729751865
+4391.013729751865
+Changing base_width
+Assuming base_length = 0.80 of base_width
+Assuming base_thickness= 0.70 of base_width
+hydrostatic force: 3200.0
+Calculating opposing forces
+weight of base: 4392.300000000007
+Bouyant Force: 1874.048000000003
+Vertical force : 5746.27840264027
+passive soil pressure: 1747.0813266381863
+Resisting force: 4907.534516591311
+4907.534516591311
+base_width: 5.500000000000003
+base_length: 2.200000000000001
+base_thickness: 2.4200000000000013
+Wall props..Wall height: 5
+Wall thickness: 1.5
+designing against overturning moments...........................
+And the overturning Moment is: 13317.397333333345
+Material Area: 0.0007920792079207921
+And the resisting Moment is: 18179.414497877602
+And the overturning Moment is: 13726.245333333343
+Material Area: 0.0007920792079207921
+And the resisting Moment is: 19532.336836986517
+And the overturning Moment is: 14149.290666666679
+Material Area: 0.0007920792079207921
+And the resisting Moment is: 20935.171676095433
+And the overturning Moment is: 14586.533333333346
+Material Area: 0.0007920792079207921
+And the resisting Moment is: 22387.91901520435
+Adjusted dimension for overturning moments.......................
+base_width: 6.2500000000000036
+base_length: 2.200000000000001
+base_thickness: 2.4200000000000013
+Wall props..Wall height: 5
+Wall thickness: 1.5
+FreeCAD 0.15, Libs: 0.15R4671 (Git)
+(c) Juergen Riegel, Werner Mayer, Yorik van Havre 2001-2015
+  #####                 ####  ###   ####  
+  #                    #      # #   #   # 
+  #     ##  #### ####  #     #   #  #   # 
+  ####  # # #  # #  #  #     #####  #   # 
+  #     #   #### ####  #    #     # #   # 
+  #     #   #    #     #    #     # #   #  ##  ##  ##
+  #     #   #### ####   ### #     # ####   ##  ##  ##
+
+Base_width?6.25
+Base_length?2.2
+Base_thickness?2.42
+Wall height?5
+Wall wall_thickness1.5
+...
+Writing STEP file......
+Face...
+
+*******************************************************************
+******        Statistics on Transfer (Write)                 ******
+
+*******************************************************************
+******        Transfer Mode = 0  I.E.  As Is       ******
+******        Transferring Shape, ShapeType = 2                      ******
+** WorkSession : Sending all data
+ Step File Name : /home/nsamba/projects/barrier/barrier_base.stp(350 ents)  Write  Done
+FreeCAD 0.15, Libs: 0.15R4671 (Git)     			
+�� Juergen Riegel, Werner Mayer, Yorik van Havre 2001-2015
+  #####                 ####  ###   ####  
+  #                    #      # #   #   # 
+  #     ##  #### ####  #     #   #  #   # 
+  ####  # # #  # #  #  #     #####  #   # 
+  #     #   #### ####  #    #     # #   # 
+  #     #   #    #     #    #     # #   #  ##  ##  ##
+  #     #   #### ####   ### #     # ####   ##  ##  ##
+
+
+
