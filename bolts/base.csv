@@ -1,0 +1,7 @@
+props,M8,M10,M12,M16,M20
+clearance hole diameter,14,17,20,26,31
+embeddment depth,69,82.5,94.5,118,148
+minimum hole depth,80,95,105,130,160
+minimum edge distance,60,70,90,120,180
+minimum spacing,125,175,200,320,540
+plate thickness,30,30,25,20,30
