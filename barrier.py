@@ -217,7 +217,7 @@ def design_frame(span_length,base_length,folder_path,bthick):
 	# to be finished
 
 def main():
-	barrier_data = file("F:/usb/barrier/barrier.csv","r")
+	barrier_data = file("/home/nsambataufeeq/usb/barrier/barrier.csv","r")
 	des_data = csv.reader(barrier_data)
 	for row in des_data:
 		wall_height = int(row[0])
@@ -235,7 +235,7 @@ def main():
 		key_depth = float(row[6])
 		key_depth = 304.5*key_depth
 		span_thickness = 304.5*(float(row[7]))
-	folder_path = "F:/usb/simulations/"+ str(wall_height)
+	folder_path = "./simulations/"+ str(wall_height)
 	if not os.path.exists(folder_path):
 		os.mkdir(folder_path)
 	design_base(wall_t,wall_width,base_width,base_thickness,base_length,span_length,key_depth,folder_path)
