@@ -1,7 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
-FILE_NAME('./simulations/5/wall_span.stp','2018-06-20T11:09:36',(
+FILE_NAME('./simulations/5/wall_span.stp','2018-06-25T09:02:48',(
     'FreeCAD'),('FreeCAD'),'Open CASCADE STEP processor 6.8','FreeCAD',
   'Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN_CC2 { 1 2 10303 214 -1 1 5 4 }'));
